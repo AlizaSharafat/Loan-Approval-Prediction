@@ -68,7 +68,7 @@ Key predictors include:
 ## Project Structure
 
 ```
-NLP-project/
+IDS-project/
 │
 ├── Notebook/
 │   └── Loan_Approval_Prediction.ipynb
